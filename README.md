@@ -17,6 +17,7 @@ Technology enthusiast. Continuous learner. Primarily interested in Kubernetes
 ![Databases](https://img.shields.io/badge/Databases-blue?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
 ![PKI](https://img.shields.io/badge/PKI-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-blue?style=for-the-badge)
 ![Storage](https://img.shields.io/badge/Storage-blue?style=for-the-badge)
 
@@ -26,5 +27,4 @@ Technology enthusiast. Continuous learner. Primarily interested in Kubernetes
 
 ### Currently learning:
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
